@@ -1,0 +1,9 @@
+site_name: Weekly English Scripts
+nav:
+  - Home: index.md
+  - Sales Funnel Discussion: sales-funnel.md
+  - Next Topic: next-topic.md
+  - Another Topic: another-topic.md
+theme:
+  name: material
+  
