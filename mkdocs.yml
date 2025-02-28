@@ -5,6 +5,8 @@ nav:
   - DeepSeek AI: deepseek-ai.md
 theme:
   name: material
+  # name: readthedocs
+
 
 use_directory_urls: false
 
