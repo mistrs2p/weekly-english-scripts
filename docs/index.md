@@ -4,7 +4,6 @@ This repository contains the scripts for our weekly English conversation session
 
 ## Available Scripts
 
-- [Sales Funnel Discussion](sales-funnel.md)
-- [Next Topic](next-topic.md)
+- [Sales Funnel Discussion](sales_funnel.md)
 
 Stay tuned for more topics every Monday!
