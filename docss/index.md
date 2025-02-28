@@ -5,6 +5,5 @@ This repository contains the scripts for our weekly English conversation session
 ## Available Scripts
 
 - [Sales Funnel Discussion](sales-funnel.md)
-- [DeepSeek AI](deepseek-ai.md)
 
 Stay tuned for more topics every Monday!

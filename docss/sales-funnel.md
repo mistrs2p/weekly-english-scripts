@@ -1,5 +1,3 @@
-
-![Sales Funnel](images/sales-funnel1.png)
 # Understanding the Sales Funnel in Digital Marketing: A Guide for Developers
 
 ## Hey there, fellow developers!

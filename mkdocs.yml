@@ -2,8 +2,9 @@ site_name: Weekly English Scripts
 nav:
   - Home: index.md
   - Sales Funnel Discussion: sales-funnel.md
-  - Next Topic: next-topic.md
-  - Another Topic: another-topic.md
+  - DeepSeek AI: deepseek-ai.md
 theme:
   name: material
-  
+
+use_directory_urls: false
+

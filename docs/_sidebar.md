@@ -1,0 +1,3 @@
+- [Home](index.md)
+- [Sales Funnel Discussion](sales-funnel.md)
+- [DeepSeek AI](deepseek-ai.md)
