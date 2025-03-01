@@ -2,3 +2,5 @@ site
 node_modules
 docs1
 docss
+
+.venv
