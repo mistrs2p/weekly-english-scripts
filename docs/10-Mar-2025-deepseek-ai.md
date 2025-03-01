@@ -15,7 +15,7 @@
 
 # DeepSeek AI: A Revolutionary AI Model
 
-![DeepSeek AI](images/deepseek-ai1.png)
+![DeepSeek AI](images/deepseek-ai1.jpg)
 
 ## Introduction
 DeepSeek AI is emerging as a powerful competitor in the artificial intelligence landscape. Unlike other AI giants, it achieves **high efficiency with fewer resources**, making it a game-changer in AI research and application. This document explores DeepSeek AI’s innovations, key features, and implications for AI development.
@@ -36,6 +36,8 @@ DeepSeek AI is emerging as a powerful competitor in the artificial intelligence 
 - **Advanced Text Summarization:** Capable of producing **highly accurate and concise summaries**.
 
 ---
+
+![DeepSeek AI](images/deepseek-ai3.png)
 
 ## 🤖 DeepSeek AI for Developers
 
@@ -61,7 +63,6 @@ DeepSeek AI is emerging as a powerful competitor in the artificial intelligence 
 
 ![DeepSeek AI](images/deepseek-ai2.png)
 
----
 
 ## ✨ DeepSeek AI for Content Creators
 
