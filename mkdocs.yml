@@ -2,13 +2,15 @@ site_name: Weekly English Scripts
 
 nav:
   - Home: index.md
-  - 3-Mar-2025 / Sales Funnel Discussion: sales-funnel.md
-  - 10-Mar-2025 / DeepSeek AI: deepseek-ai.md
+  - Sales Funnel Discussion: sales-funnel.md
+  - DeepSeek AI: deepseek-ai.md
 
 theme:
   name: material
   features:
     - navigation.top
+    - navigation.indexes
+    - navigation.number
     - search.suggest
     - search.highlight
 
@@ -17,6 +19,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/mistrs2p/weekly-english-scripts
 
+markdown_extensions:
+  - toc:
+      permalink: "#"
 
+extra_css:
+  - css/extra.css
 use_directory_urls: false
 
