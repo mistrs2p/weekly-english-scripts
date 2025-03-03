@@ -1,11 +1,21 @@
 site_name: Weekly English Scripts
+
 nav:
   - Home: index.md
-  - Sales Funnel Discussion: sales-funnel.md
-  - DeepSeek AI: deepseek-ai.md
+  - 3-Mar-2025 / Sales Funnel Discussion: sales-funnel.md
+  - 10-Mar-2025 / DeepSeek AI: deepseek-ai.md
+
 theme:
   name: material
-  # name: readthedocs
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mistrs2p/weekly-english-scripts
 
 
 use_directory_urls: false
